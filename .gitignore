@@ -1,4 +1,7 @@
+#folders
 /node_modules
-LICENSE
+
+##files
 package.json
 package-lock.json
+cypress.env.json
