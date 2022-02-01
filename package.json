@@ -11,6 +11,6 @@
     "request": "^2.83.0"
   },
   "devDependencies": {
-    "cypress": "^9.4.0"
+    "cypress": "^9.4.1"
   }
 }
